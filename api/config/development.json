@@ -1,0 +1,6 @@
+{
+	"databases": {
+		"testapp": "mongodb://localhost/node_testapp_db",
+     "secret": "someSecretHere"
+	}
+}
